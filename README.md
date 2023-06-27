@@ -1,4 +1,4 @@
-# TelegramBot
+# quiz-telegram-bot
 A simple telegram bot written in Java. It is a game with gifs, buttons, earning points to advance to a new level. Tasks from buttons are generated randomly.
 
 Telegram bot text:
